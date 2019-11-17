@@ -6,3 +6,4 @@
 *.jpeg
 *.min.js
 *.swp
+/nbproject/
